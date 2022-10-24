@@ -11,7 +11,7 @@
 
 ## Description
 
-This project is a code refactor for the fictional company Horiseon home page. The purposes of this refactoring is to improve its accessibility and readability and overall semantic structure. This refactoring should also result in improved search engine optimization.
+This project is a code refactor for the fictional company Horiseon home page. The purposes of this refactoring are to improve its accessibility and the search engine optimization and overall semantic structure.
 
 ## Features
 
@@ -19,7 +19,7 @@ This project is a code refactor for the fictional company Horiseon home page. Th
 - Ensured that heading elements follow a logical, sequential order
 - Organized CSS properties to follow semantic structure and added comments to delineate each separation
 - Removed duplication from CSS properties
-- Alt text was added to images, improving accessibility
+- Alt text was added to images, improving the experience of users who use screen readers
 - Fixed an unresponsive link and ensured that all links function correctly
 
 ## Installation
