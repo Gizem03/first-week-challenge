@@ -30,6 +30,8 @@ This project is a code refactor for the fictional company Horiseon home page. Th
 
 ## Usage
 
+The site is deployed here: https://gizem03.github.io/horiseon-home-page-refactor/
+
 When you deploy or run the application you will see the following site on your browser.
 
 ![screenshot](assets/images/homepage.png)
